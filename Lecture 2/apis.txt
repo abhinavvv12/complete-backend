@@ -1,0 +1,8 @@
+API - set of rules/protocols to communicate between applications and exchange data, functionality
+
+Rest API - Https protocol
+
+GET -> server se data ko fetch krne ho
+POST -> server pr data ko send krna ho
+PATCH -> server pr data ko, update krna ho
+DELETE -> server pr data ko, delete krna ho
