@@ -1,0 +1,2 @@
+db_password_abhinav = fPbLXMlLANSHVou8
+mongodb+srv://abhinav:fPbLXMlLANSHVou8@cluster0.4nawyqj.mongodb.net/
