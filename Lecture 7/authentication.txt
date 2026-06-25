@@ -1,0 +1,25 @@
+1. Validation
+checking the format of data
+
+Name = JhonDe
+email = 123456789 (Not Valid) =  [example@test.com]
+ph = 987456123
+password = test@123
+
+
+
+2. Verification
+to verify if the data is correct or Not
+
+email  = abhinav@email.com
+check if the above email belongs to that particular user only.(through OTP Verification)
+
+
+3. Authentication
+
+To Identify the user from which the api request is called in from millions to billions of users
+
+
+4. Authorization 
+
+different kind of permissions to different users
